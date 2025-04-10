@@ -1,7 +1,7 @@
 # 👩‍💻 Olá, eu sou a Clarice Presley!
 **`Desenvolvedora FullStack`**
 
- 
+
 
 <a href="http://github.com/ClaricePresley">
 <img height="180em" src="http://github-readme-stats.vercel.app/api?username=ClaricePresley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
