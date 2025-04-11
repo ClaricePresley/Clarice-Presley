@@ -1,5 +1,9 @@
 # 👩‍💻 Olá, eu sou a Clarice Presley!
+
+## 🌟Sobre mim
 **`Desenvolvedora FullStack`**
+
+Estudante de Ciência da Computaçâo, estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Tenho paixão por transformar conhecimento em soluções criativas e inovadoras.
 
 <div>
   <a href="https://git.io/typing-svg">
@@ -31,7 +35,6 @@
   <a href = "mailto:claricepresley524@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/clarice-presley-1b918a255" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 
 
 <picture align="center">
